@@ -1,0 +1,2 @@
+# Wecan
+Learning AI
